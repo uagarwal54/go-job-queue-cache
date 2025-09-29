@@ -58,10 +58,10 @@ This system is ideal for teams/startups who need **background processing** witho
 
 ## 🚀 Roadmap
 
-- [x] REST APIs (`/enqueue`, `/status/{id}`)  
-- [x] Worker pool (concurrent job execution)  
-- [x] Retries with exponential backoff  
-- [x] LRU + TTL cache for job results  
+- [ ] REST APIs (`/enqueue`, `/status/{id}`)  
+- [ ] Worker pool (concurrent job execution)  
+- [ ] Retries with exponential backoff  
+- [ ] LRU + TTL cache for job results  
 - [ ] Dead-letter queue  
 - [ ] Dashboard (TUI or Next.js)  
 - [ ] K8s deployment manifests  
